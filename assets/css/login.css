@@ -1,0 +1,29 @@
+body {
+  background-color: #555;
+}
+
+.mainbox{
+  margin-top: 150px;
+  padding: 20px 30px 30px 20px;
+  background-color: #eee;
+}
+
+.form-heading{
+  font-family: 'Russo One', sans-serif;
+  padding: 15px;
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+  color: #428bca;
+  text-align: center;
+}
+
+
+
+@media (max-width: 768px) {
+  .mainbox{
+    margin-top: 50px;
+    padding: 20px 30px 30px 20px;
+    background-color: #eee;
+  }
+}

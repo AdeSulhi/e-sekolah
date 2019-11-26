@@ -1,0 +1,30 @@
+.logo {
+  text-align: center;
+  padding-top: 5px;
+}
+
+.logo-title{
+  /*
+  font-family: 'Unlock', cursive; */
+  font-size: 18px; 
+  color: #f0ad4e;
+  padding-top: 5px;
+  text-align: center;
+}
+
+.logo-lg{
+  font-family: 'Leckerli One', cursive;
+  font-size: 25px;
+}
+
+.content-header h1{
+  font-family: 'Unlock', cursive;
+  font-size: 18px; 
+  color: #428bca;
+}
+
+.text-label{font-size: 12px;}
+
+@media (min-width: 768px) {
+  .login-btn{margin-bottom: 10px;}
+}
